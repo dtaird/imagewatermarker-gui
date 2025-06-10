@@ -7,4 +7,5 @@ To use this program, you can run the CanvasImage.py file from the command line o
 ## **Customization**
 You can customize the program by modifying the watermark text, color, and font. You can also modify the layout of the GUI, such as changing the size of the canvas or the position of the button.
 
+## **Usage**
 ![screen](screenshot.png)
